@@ -7,8 +7,13 @@ Link reference to learn build Apps on Android
 - [Why Kotlin - Dan Lew](http://blog.danlew.net/2017/05/17/why-kotlin/)
 - [KOTLIN: UNCOVERED - PART 1 - Victoria Gonda](https://collectiveidea.com/blog/archives/2017/05/16/kotlin-uncovered-part-1)
 - [KOTLIN: UNCOVERED - PART 2 - Victoria Gonda](https://collectiveidea.com/blog/archives/2017/05/19/kotlin-uncovered-part-2)
-- [From Java to Kotlin - fabiomsr](https://fabiomsr.github.io/from-java-to-kotlin/index.html)
+- [From Java to Kotlin - Fabiomsr](https://fabiomsr.github.io/from-java-to-kotlin/index.html)
 - [Why you should totally switch to Kotlin - Magnus Vinther](https://medium.com/@magnus.chatt/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5)
+- [Reading Through Kotlin in Action - Caren Chang](https://medium.com/@calren24/reading-through-kotlin-in-action-428111b051ce)
+- [Kotlin in Action : Chapter 1, What and Why - Caren Chang](https://medium.com/@calren24/kotlin-in-action-chapter-1-what-and-why-9d2899560755)
+- [Kotlin in Action : Chapter 2, Kotlin Basics - Caren Chang](https://medium.com/@calren24/kotlin-in-action-chapter-2-kotlin-basics-430a905ef4d8)
+- [Kotlin in Action : Chapter 3, Defining and Calling Functions - Caren Chang](https://medium.com/@calren24/kotlin-in-action-chapter-3-defining-and-calling-functions-f96a87dd976b)
+- [Kotlin in Action , Chapter 4 : Class, Objects and Interfaces - Caren Chang](https://medium.com/@calren24/kotlin-in-action-chapter-4-class-objects-and-interfaces-6b3b4f48eca)
 
 ## Java
 
@@ -51,10 +56,11 @@ Link reference to learn build Apps on Android
 
 ### Kotlin
 
-## Library
+## Library & Plugin
 
 ### Java
 - [The 30 Coolest Android Libraries from Spring 2017 - Michal Bialas](https://medium.freecodecamp.com/30-new-android-libraries-released-in-the-spring-of-2017-which-deserve-your-attention-faea359a1915)
+- [Android Parcelables Made Easy - Caren Chang](https://medium.com/@calren24/android-parcelables-made-easy-acb742bcf96b)
 
 ### Kotlin
 
