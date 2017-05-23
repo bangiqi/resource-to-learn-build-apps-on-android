@@ -14,6 +14,12 @@ Link reference to learn build Apps on Android
 - [Kotlin in Action : Chapter 2, Kotlin Basics - Caren Chang](https://medium.com/@calren24/kotlin-in-action-chapter-2-kotlin-basics-430a905ef4d8)
 - [Kotlin in Action : Chapter 3, Defining and Calling Functions - Caren Chang](https://medium.com/@calren24/kotlin-in-action-chapter-3-defining-and-calling-functions-f96a87dd976b)
 - [Kotlin in Action , Chapter 4 : Class, Objects and Interfaces - Caren Chang](https://medium.com/@calren24/kotlin-in-action-chapter-4-class-objects-and-interfaces-6b3b4f48eca)
+- [Square Open Source ♥s Kotlin - Jake Wharton](https://medium.com/square-corner-blog/square-open-source-loves-kotlin-c57c21710a17)
+- [Rolling out @Nullable - Jesse Wilson](https://medium.com/square-corner-blog/rolling-out-nullable-42dd823fbd89)
+- [Non-null is the Default - Jesse Wilson](https://medium.com/square-corner-blog/non-null-is-the-default-58ffc0bb9111)
+- [An Optional’s place in Kotlin - Jake Wharton](https://medium.com/square-corner-blog/an-optionals-place-in-kotlin-17d7b271eefe)
+- [Kotlin’s a great language for JSON - Jesse Wilson](https://medium.com/square-corner-blog/kotlins-a-great-language-for-json-fcd6ef99256b)
+- [Generating Kotlin code with KotlinPoet - Jake Wharton](https://medium.com/square-corner-blog/generating-kotlin-code-with-kotlinpoet-119dc20f74d4)
 
 ## Java
 
