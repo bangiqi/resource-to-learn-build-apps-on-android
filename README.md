@@ -3,7 +3,7 @@
 Link reference to learn build Apps on Android
 
 ## Kotlin
-- [Android Announces Support for Kotlin - Android Developers Blog](Android Developers Blog)
+- [Android Announces Support for Kotlin - Android Developers Blog](https://android-developers.googleblog.com/2017/05/android-announces-support-for-kotlin.html)
 - [Why Kotlin - Dan Lew](http://blog.danlew.net/2017/05/17/why-kotlin/)
 - [KOTLIN: UNCOVERED - PART 1 - Victoria Gonda](https://collectiveidea.com/blog/archives/2017/05/16/kotlin-uncovered-part-1)
 - [KOTLIN: UNCOVERED - PART 2 - Victoria Gonda](https://collectiveidea.com/blog/archives/2017/05/19/kotlin-uncovered-part-2)
