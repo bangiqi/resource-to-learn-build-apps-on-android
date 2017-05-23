@@ -18,6 +18,7 @@ Link reference to learn build Apps on Android
 - [Android Studio 3.0 Canary 1 - Android Developers Blog](https://android-developers.googleblog.com/2017/05/android-studio-3-0-canary1.html)
 
 ### Tips & Tricks
+- [50 Android Studio Tips, Tricks & Resources you should be familiar with, as an Android Developer - Michal Bialas](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2)
 
 ## Object Oriented Tips
 
