@@ -7,6 +7,7 @@ Link reference to learn build Apps on Android
 - [KOTLIN: UNCOVERED - PART 1 - Victoria Gonda](https://collectiveidea.com/blog/archives/2017/05/16/kotlin-uncovered-part-1)
 - [KOTLIN: UNCOVERED - PART 2 - Victoria Gonda](https://collectiveidea.com/blog/archives/2017/05/19/kotlin-uncovered-part-2)
 - [From Java to Kotlin - fabiomsr](https://fabiomsr.github.io/from-java-to-kotlin/index.html)
+- [Why you should totally switch to Kotlin - Magnus Vinther](https://medium.com/@magnus.chatt/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5)
 
 ## Java
 
@@ -67,5 +68,5 @@ Link reference to learn build Apps on Android
 
 ## Sample Source Code (Github)
 
-### MVP(Model-View-Presenter) Pattern
+### MVP (Model-View-Presenter) Pattern
 - [hello-mvp - quangctkm9207](https://github.com/quangctkm9207/hello-mvp)
