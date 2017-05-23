@@ -2,13 +2,32 @@
 
 Link reference to learn build Apps on Android
 
-## Object Oriented Tips
+## Kotlin
+- [Why Kotlin - Dan Lew](http://blog.danlew.net/2017/05/17/why-kotlin/)
+- [KOTLIN: UNCOVERED - PART 1 - Victoria Gonda](https://collectiveidea.com/blog/archives/2017/05/16/kotlin-uncovered-part-1)
+- [KOTLIN: UNCOVERED - PART 2 - Victoria Gonda](https://collectiveidea.com/blog/archives/2017/05/19/kotlin-uncovered-part-2)
 
 ## Java
 
-## Kotlin
+## Object Oriented Tips
+
+### Java
+- [Object Oriented Tricks: #1 The Art of Command Query Separation - Arun Sasidharan](https://hackernoon.com/oo-tricks-the-art-of-command-query-separation-9343e50a3de0)
+- [Object Oriented Tricks: #2 Law of Demeter - Arun Sasidharan](https://hackernoon.com/object-oriented-tricks-2-law-of-demeter-4ecc9becad85)
+- [Object Oriented Tricks: #3 Death By Arguments - Arun Sasidharan](https://hackernoon.com/object-oriented-tricks-3-death-by-arguments-d070ac86d996)
+- [Object Oriented Tricks: #4 Starter Pattern - Android Edition - Arun Sasidharan](https://hackernoon.com/object-oriented-tricks-4-starter-pattern-android-edition-1844e1a8522d)
+- [Object Oriented Tricks: #5 Boy Scout Rule - Arun Sasidharan](https://hackernoon.com/object-oriented-tricks-5-boy-scout-rule-cec82aea3b81)
+- [Object Oriented Tricks: #6 SLAP your functions - Arun Sasidharan](https://hackernoon.com/object-oriented-tricks-6-slap-your-functions-a13d25a7d994)
+
+### Kotlin
 
 ## User Interface
+
+### Java
+
+### Kotlin
+
+## Pattern
 
 ### Java
 
@@ -17,18 +36,21 @@ Link reference to learn build Apps on Android
 ## Architecture
 
 ### Java
+- [Android and Architecture - Android Developers Blog](https://android-developers.googleblog.com/2017/05/android-and-architecture.html)
 
 ### Kotlin
 
 ## Library
 
 ### Java
+- [The 30 Coolest Android Libraries from Spring 2017 - Michal Bialas](https://medium.freecodecamp.com/30-new-android-libraries-released-in-the-spring-of-2017-which-deserve-your-attention-faea359a1915)
 
 ### Kotlin
 
 ## Database
 
 ### Java
+- [Room  -  Getting Started - Tony Owen](https://medium.com/@tonyowen/a-room-with-a-view-getting-started-ec010f9f5448)
 
 ### Kotlin
 
@@ -38,3 +60,11 @@ Link reference to learn build Apps on Android
 
 ### Kotlin
 
+## Android Things
+
+- [Android Architecture Components meets AndroidThings - Blundell](http://blog.blundellapps.co.uk/android-architecture-components-meets-androidthings/)
+
+## Sample Source Code (Github)
+
+### MVP(Model-View-Presenter) Pattern
+- [hello-mvp - quangctkm9207](https://github.com/quangctkm9207/hello-mvp)
