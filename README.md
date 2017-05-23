@@ -3,6 +3,7 @@
 Link reference to learn build Apps on Android
 
 ## Kotlin
+- [Android Announces Support for Kotlin - Android Developers Blog](Android Developers Blog)
 - [Why Kotlin - Dan Lew](http://blog.danlew.net/2017/05/17/why-kotlin/)
 - [KOTLIN: UNCOVERED - PART 1 - Victoria Gonda](https://collectiveidea.com/blog/archives/2017/05/16/kotlin-uncovered-part-1)
 - [KOTLIN: UNCOVERED - PART 2 - Victoria Gonda](https://collectiveidea.com/blog/archives/2017/05/19/kotlin-uncovered-part-2)
@@ -10,6 +11,13 @@ Link reference to learn build Apps on Android
 - [Why you should totally switch to Kotlin - Magnus Vinther](https://medium.com/@magnus.chatt/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5)
 
 ## Java
+
+## Android Studio
+
+### Announces
+- [Android Studio 3.0 Canary 1 - Android Developers Blog](https://android-developers.googleblog.com/2017/05/android-studio-3-0-canary1.html)
+
+### Tips & Tricks
 
 ## Object Oriented Tips
 
@@ -65,6 +73,12 @@ Link reference to learn build Apps on Android
 ## Android Things
 
 - [Android Architecture Components meets AndroidThings - Blundell](http://blog.blundellapps.co.uk/android-architecture-components-meets-androidthings/)
+
+## Reactive Programming
+
+### Java
+
+### Kotlin
 
 ## Library & Sample Source Code (Github)
 
