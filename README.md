@@ -66,7 +66,13 @@ Link reference to learn build Apps on Android
 
 - [Android Architecture Components meets AndroidThings - Blundell](http://blog.blundellapps.co.uk/android-architecture-components-meets-androidthings/)
 
-## Sample Source Code (Github)
+## Library & Sample Source Code (Github)
 
 ### MVP (Model-View-Presenter) Pattern
-- [hello-mvp - quangctkm9207](https://github.com/quangctkm9207/hello-mvp)
+- [[ Sample ] hello-mvp - quangctkm9207](https://github.com/quangctkm9207/hello-mvp)
+
+### Android Architecture
+- [[ Sample ] android-architecture-counter-sample - dlew](https://github.com/dlew/android-architecture-counter-sample)
+
+### Kotlin
+- [[ Library ] kotlinpoet - square](https://github.com/square/kotlinpoet)
