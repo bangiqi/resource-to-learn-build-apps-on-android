@@ -20,6 +20,8 @@ Link reference to learn build Apps on Android
 - [An Optional’s place in Kotlin - Jake Wharton](https://medium.com/square-corner-blog/an-optionals-place-in-kotlin-17d7b271eefe)
 - [Kotlin’s a great language for JSON - Jesse Wilson](https://medium.com/square-corner-blog/kotlins-a-great-language-for-json-fcd6ef99256b)
 - [Generating Kotlin code with KotlinPoet - Jake Wharton](https://medium.com/square-corner-blog/generating-kotlin-code-with-kotlinpoet-119dc20f74d4)
+- [Get Started with Kotlin on Android - Android Developers](https://developer.android.com/kotlin/get-started.html)
+- [Resources To Learn Kotlin - Android Developers](https://developer.android.com/kotlin/resources.html)
 
 ## Java
 
