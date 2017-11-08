@@ -5,3 +5,7 @@
 ## Istilah
 
 ## Operator
+
+## Resources
+
+- []()
