@@ -20,7 +20,7 @@ Native Android Apps With :
 - [Android DTT #6 — Faster Code Completion - Ahmad Fadli Basyari](https://android.jlelse.eu/adtt-6-a-722c7b78dc91)
 - [Android shortcuts and tricks to boost up your productivity! - Mladen Rakonjac](https://tech.fleka.me/android-shortcuts-and-tricks-to-boost-up-your-productivity-944548174582)
 
-### Library, Plugin
+### Library & Plugin
 - [The 30 Coolest Android Libraries from Spring 2017 - Michal Bialas](https://medium.freecodecamp.com/30-new-android-libraries-released-in-the-spring-of-2017-which-deserve-your-attention-faea359a1915)
 - [Android Parcelables Made Easy - Caren Chang](https://medium.com/@calren24/android-parcelables-made-easy-acb742bcf96b)
 
