@@ -23,6 +23,7 @@ Link reference to learn build Apps on Android with Java
 - [Android Architecture Components: Room — Relationships](https://android.jlelse.eu/android-architecture-components-room-relationships-bf473510c14a)
 - [Android Architecture Components: Room — Custom Types](https://android.jlelse.eu/android-architecture-components-room-custom-types-ad6a477004e0)
 - [Room  -  Getting Started - Tony Owen](https://medium.com/@tonyowen/a-room-with-a-view-getting-started-ec010f9f5448)
+- [SQLite Made Easy : Room Persistence Library](https://blog.mindorks.com/sqlite-made-easy-room-persistence-library-ecd1a5bb0a2c)
 
 ## Object Oriented Tips
 - [Object Oriented Tricks: #1 The Art of Command Query Separation - Arun Sasidharan](https://hackernoon.com/oo-tricks-the-art-of-command-query-separation-9343e50a3de0)
@@ -44,6 +45,7 @@ Link reference to learn build Apps on Android with Java
 ## Reactive Programming
 
 - [Learn Reactive Programming with RxJava in Android](https://github.com/ramdanix/resource-to-learn-build-apps-on-android/blob/master/reactive_programming.md)
+- [Implement Search Using RxJava Operators - *Amit Shekhar - 16 Oct 2017*](https://blog.mindorks.com/implement-search-using-rxjava-operators-c8882b64fe1d)
 
 
 

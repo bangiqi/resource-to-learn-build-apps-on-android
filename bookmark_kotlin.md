@@ -21,6 +21,10 @@ Link reference to learn build Apps on Android with Kotlin
 
 empty
 
+## Networking
+
+- [Understanding Android Networking Library — Retrofit 2 (Ritesh Singh)](https://blog.mindorks.com/understanding-android-networking-library-retrofit-2-510d07dc5b1f)
+
 ## Other
 
 - [Android Announces Support for Kotlin - Android Developers Blog](https://android-developers.googleblog.com/2017/05/android-announces-support-for-kotlin.html)
