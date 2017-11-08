@@ -2,8 +2,10 @@
 
 Link reference to learn build Apps on Android with Kotlin
 
-## Basic
+## Getting Started
+- [Kotlin and Android](https://developer.android.com/kotlin/index.html)
 
+## Basic
 - [Kotlin in Action : Chapter 1, What and Why - Caren Chang](https://medium.com/@calren24/kotlin-in-action-chapter-1-what-and-why-9d2899560755)
 - [Kotlin in Action : Chapter 2, Kotlin Basics - Caren Chang](https://medium.com/@calren24/kotlin-in-action-chapter-2-kotlin-basics-430a905ef4d8)
 - [Kotlin in Action : Chapter 3, Defining and Calling Functions - Caren Chang](https://medium.com/@calren24/kotlin-in-action-chapter-3-defining-and-calling-functions-f96a87dd976b)

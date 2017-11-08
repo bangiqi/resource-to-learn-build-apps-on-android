@@ -9,6 +9,10 @@ Native Android Apps With :
 ## Announces
 - [Android Studio 3.0 Canary 1 - Android Developers Blog](https://android-developers.googleblog.com/2017/05/android-studio-3-0-canary1.html)
 
+## Channel Medium
+- [AndroidPub](https://android.jlelse.eu/)
+- [Blog Mindorks](https://blog.mindorks.com/tagged/android)
+
 ## Tips & Tricks
 
 ### Android Studio
