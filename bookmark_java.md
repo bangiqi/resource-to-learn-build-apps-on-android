@@ -8,9 +8,29 @@ Link reference to learn build Apps on Android with Java
 
 ### Model-View-Presenter
 
-- [[ Sample ] hello-mvp - quangctkm9207](https://github.com/quangctkm9207/hello-mvp)
+### Guide
+
+- [Chapter 1 - MVP Components ~ mindorks.com](https://mindorks.com/course/android-mvp-introduction/chapter/id/5)
+- [Chapter 2 - MVP Implementation ~ mindorks.com](https://mindorks.com/course/android-mvp-introduction/chapter/id/6)
+- [Essential Guide For Designing Your Android App Architecture MVP: Part 1](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-1-74efaf1cda40)
+- [Essential Guide For Designing Your Android App Architecture MVP: Part 2](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-2-b2ac6f3f9637)
+- [Essential Guide For Designing Your Android App Architecture MVP: Part 3](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-3-dialog-viewpager-and-7bdfab86aabb)
+- [Android MVP Architecture Extension with Interactors and Repositories](https://blog.mindorks.com/android-mvp-architecture-extension-with-interactors-and-repositories-bd4b51972339)
+
+### Sample
+
+- [android-mvp-basic-sample ~ MindorksOpenSource](https://github.com/MindorksOpenSource/android-mvp-basic-sample)
+- [hello-mvp - quangctkm9207](https://github.com/quangctkm9207/hello-mvp)
+
+### Dagger 2
+
+- [Introduction to Dagger 2, Using Dependency Injection in Android: Part 1 ~ blog.mindorks.com](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-1-223289c2a01b)
+- [Introduction to Dagger 2, Using Dependency Injection in Android: Part 1 ~ blog.mindorks.com](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-2-b55857911bcd)
 
 ### Model-View-ViewModel
+
+### Sample
+- [android-mvvm-basic-sample ~ MindorksOpenSource](https://github.com/MindorksOpenSource/android-mvvm-architecture)
 
 ### Android Architecture Components
 
