@@ -10,6 +10,21 @@ Link reference to learn build Apps on Android with Kotlin
 - [Kotlin in Action : Chapter 2, Kotlin Basics - Caren Chang](https://medium.com/@calren24/kotlin-in-action-chapter-2-kotlin-basics-430a905ef4d8)
 - [Kotlin in Action : Chapter 3, Defining and Calling Functions - Caren Chang](https://medium.com/@calren24/kotlin-in-action-chapter-3-defining-and-calling-functions-f96a87dd976b)
 - [Kotlin in Action , Chapter 4 : Class, Objects and Interfaces - Caren Chang](https://medium.com/@calren24/kotlin-in-action-chapter-4-class-objects-and-interfaces-6b3b4f48eca)
+- [Kotlin From Scratch: Classes and Objects ~ By Chike Mgbemena](https://code.tutsplus.com/tutorials/kotlin-from-scratch-classes-and-objects--cms-29590)
+- [Kotlin From Scratch: Advanced Functions ~ By Chike Mgbemena](https://code.tutsplus.com/tutorials/kotlin-from-scratch-advanced-functions--cms-29534)
+- [Kotlin From Scratch: More Fun With Functions ~ By Chike Mgbemena](https://code.tutsplus.com/tutorials/kotlin-from-scratch-more-functions--cms-29479)
+- [Kotlin From Scratch: Packages and Basic Functions ~ By Chike Mgbemena](https://code.tutsplus.com/tutorials/kotlin-from-scratch-packages-basic-functions--cms-29445)
+- [Kotlin From Scratch: Ranges and Collections ~ By Chike Mgbemena](https://code.tutsplus.com/tutorials/kotlin-from-scratch-ranges-and-collections--cms-29397)
+
+### Essential
+
+- [November 16, 2017 ~ Kotlin Programmer Dictionary: Object expression vs Object declaration](https://blog.kotlin-academy.com/kotlin-programmer-dictionary-object-expression-vs-object-declaration-791b183ad16b)
+
+### Storage
+
+### Shared Preference
+
+- [November 24, 2017 ~ Kotlin: Contexts & SharedPreferences](https://blog.stylingandroid.com/kotlin-contexts-sharedpreferences/)
 
 ## Testing
 

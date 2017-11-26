@@ -4,9 +4,19 @@ Link reference to learn build Apps on Android with Java
 
 ## Basic
 
+## Java 8
+
+### Guide
+
+- [Oktober 11, 2017 ~ Java 8 for Android: Cleaner Code With Lambda Expressions ~ By Jessica Thornsby from code.tutplus.com](https://code.tutsplus.com/tutorials/java-8-for-android-cleaner-code-with-lambda-expressions--cms-29661)
+- [Oktober 17, 2017 ~ Java 8 for Android Development: Default and Static Methods ~ By Jessica Thornsby from code.tutplus.com](https://code.tutsplus.com/tutorials/java-8-for-android-development-default-and-static-methods--cms-29754)
+- [November 14, 2017 ~ Java 8 for Android Development: Stream API and Date & Time Libraries ~ By Jessica Thornsby from code.tutplus.com](https://code.tutsplus.com/tutorials/java-8-for-android-development-stream-api-and-date-time-libraries--cms-29904)
+
 ## Architecture
 
 ### Model-View-Presenter
+
+Berikut adalah referensi panduan (Guide) dan contoh (Sample Code) menggunakan Model-View-Intent Pattern
 
 ### Guide
 
@@ -16,6 +26,7 @@ Link reference to learn build Apps on Android with Java
 - [Essential Guide For Designing Your Android App Architecture MVP: Part 2](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-2-b2ac6f3f9637)
 - [Essential Guide For Designing Your Android App Architecture MVP: Part 3](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-3-dialog-viewpager-and-7bdfab86aabb)
 - [Android MVP Architecture Extension with Interactors and Repositories](https://blog.mindorks.com/android-mvp-architecture-extension-with-interactors-and-repositories-bd4b51972339)
+- [Oktober 25, 2016 ~  Offline-First Reactive Android Apps (Repository Pattern + MVP + Dagger 2 + RxJava + ContentProvider)](https://adityaladwa.wordpress.com/2016/10/25/offline-first-reactive-android-apps-repository-pattern-mvp-dagger-2-rxjava-contentprovider/)
 
 ### Sample
 
@@ -29,8 +40,22 @@ Link reference to learn build Apps on Android with Java
 
 ### Model-View-ViewModel
 
+Berikut adalah referensi panduan (Guide) dan contoh (Sample Code) menggunakan Model-View-Intent Pattern
+
 ### Sample
 - [android-mvvm-basic-sample ~ MindorksOpenSource](https://github.com/MindorksOpenSource/android-mvvm-architecture)
+
+
+### Model-View-Intent
+
+Berikut adalah referensi panduan (Guide) dan contoh (Sample Code) menggunakan Model-View-Intent Pattern
+
+### Guide 
+- [The Contract of the Model-View-Intent Architecture](https://proandroiddev.com/the-contract-of-the-model-view-intent-architecture-777f95706c1e)
+
+### Sample
+- [android-architecture ~ oldergod](https://github.com/oldergod/android-architecture)
+
 
 ### Android Architecture Components
 
@@ -38,11 +63,11 @@ Link reference to learn build Apps on Android with Java
 - [Android and Architecture - Android Developers Blog](https://android-developers.googleblog.com/2017/05/android-and-architecture.html)
 
 ### Rooms
-
+- [Room  -  Getting Started - Tony Owen](https://medium.com/@tonyowen/a-room-with-a-view-getting-started-ec010f9f5448)
 - [Android Architecture Components: Room — Introduction](https://android.jlelse.eu/android-architecture-components-room-introduction-4774dd72a1ae)
 - [Android Architecture Components: Room — Relationships](https://android.jlelse.eu/android-architecture-components-room-relationships-bf473510c14a)
 - [Android Architecture Components: Room — Custom Types](https://android.jlelse.eu/android-architecture-components-room-custom-types-ad6a477004e0)
-- [Room  -  Getting Started - Tony Owen](https://medium.com/@tonyowen/a-room-with-a-view-getting-started-ec010f9f5448)
+- [Android Architecture Components: Room — Migration](https://android.jlelse.eu/android-architecture-components-room-migration-1a269e1aeef7)
 - [SQLite Made Easy : Room Persistence Library](https://blog.mindorks.com/sqlite-made-easy-room-persistence-library-ecd1a5bb0a2c)
 
 ## Object Oriented Tips
@@ -66,6 +91,12 @@ Link reference to learn build Apps on Android with Java
 
 - [Learn Reactive Programming with RxJava in Android](https://github.com/ramdanix/resource-to-learn-build-apps-on-android/blob/master/reactive_programming.md)
 - [Implement Search Using RxJava Operators - *Amit Shekhar - 16 Oct 2017*](https://blog.mindorks.com/implement-search-using-rxjava-operators-c8882b64fe1d)
+
+## Firebase
+
+### Guide
+
+- [November 15, 2017 ~ How to Upload Images to Firebase from an Android App ~ By Chinedu Izuchukwu from code.tutplus.com](https://code.tutsplus.com/tutorials/image-upload-to-firebase-in-android-application--cms-29934)
 
 
 
